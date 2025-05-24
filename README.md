@@ -71,7 +71,7 @@ The project includes a comprehensive testbench (`ASPS_tb_detailed.v`) for system
 Contributions are welcome! Please feel free to submit a Pull Request. We appreciate your help in making this project better!
 
 ## 👥 Authors
-Mohamed alaa
+Mohamed alaa,
 kenzy ahmed
 
 *Note: This project is part of [CSE132] Computer Architecture & Organization
