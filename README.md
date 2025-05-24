@@ -70,6 +70,19 @@ The project includes a comprehensive testbench (`ASPS_tb_detailed.v`) for system
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. We appreciate your help in making this project better!
 
+## 📜 License
+[Your chosen license]
 
+## 👥 Authors
+[Your name/team]
+
+## 🙏 Acknowledgments
+- [Any acknowledgments or references]
+
+## 📫 Contact
+[Your contact information]
+
+---
+*Note: This project is part of [Your Institution/Course details if applicable]* 
 
 ### 🌟 Star this repository if you find it helpful!
